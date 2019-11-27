@@ -1,0 +1,14 @@
+{
+    "name": "Courses",
+    "alias": "courses",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Courses\\Providers\\CoursesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
